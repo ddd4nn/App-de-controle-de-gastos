@@ -1,8 +1,9 @@
 # Porcóide
  Um Programa escrito em Python para controle de gastos com o intuito de aprofundar meus conhecimentos.
  
-#Porque isso existe?
- Ultimamente, tenho percebido que tenho tido dificuldades em controlar meus gastos de forma eficiente. As despesas parecem estar escapando do meu controle, e isso tem afetado minha saúde financeira. Percebi que é hora de tomar medidas para retomar o controle das minhas finanças e garantir um futuro mais estável.
+Porque isso existe?
+-------------------------------
+Ultimamente, tenho percebido que tenho tido dificuldades em controlar meus gastos de forma eficiente. As despesas parecem estar escapando do meu controle, e isso tem afetado minha saúde financeira. Percebi que é hora de tomar medidas para retomar o controle das minhas finanças e garantir um futuro mais estável.
 
 Decidi criar um aplicativo de controle de gastos como uma forma de estudo e também como uma ferramenta prática para me ajudar nesse processo. Ao desenvolver esse aplicativo, espero aprofundar meu conhecimento em programação e, ao mesmo tempo, colocar em prática uma solução que realmente me auxilie no controle financeiro.
 
